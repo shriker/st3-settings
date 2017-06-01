@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"ayu",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"GitGutter",
+		"HTML5",
+		"jQuery",
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements"
+	]
+}

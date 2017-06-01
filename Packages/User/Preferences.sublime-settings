@@ -1,0 +1,38 @@
+{
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"font_face": "Roboto Mono",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"highlight_modified_tabs": true,
+	"theme": "ayu-mirage.sublime-theme",
+	"ui_big_tabs": true,
+	"ui_fix_tab_labels": true,
+	"ui_font_size_small": true,
+	"ui_font_source_code_pro": false,
+	"ui_separator": true,
+	"ui_sidebar_highlight_row": true,
+	"ui_wide_scrollbars": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"save_on_focus_lost": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"thumbs.db",
+		"desktop.ini",
+		".gitkeep"
+	],
+	"folder_exclude_patterns":
+	[
+		".bundle",
+		".git",
+		".sass-cache",
+		"node_modules"
+	]
+
+}
