@@ -22,6 +22,6 @@ git clone https://github.com/shriker/sublime.git ~/Library/Application\ Support/
 ### Windows ###
 
 ``` bash
-cd 'AppData/Roaming/Sublime Text 3'
+cd ~/AppData/Roaming/Sublime\ Text\ 3
 git clone https://github.com/shriker/sublime.git .
 ```
