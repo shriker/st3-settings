@@ -1,6 +1,6 @@
-# sublime text 3
+# Sublime Text 3
 
-My Sublime Text 3 settings
+My Sublime Text 3 settings. Using the awesome [ayu](https://github.com/dempfi/ayu) theme in mirage. 🎨🖌💙💀🐱
 
 ## Installation
 
